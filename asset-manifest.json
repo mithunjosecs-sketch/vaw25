@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vaw25/static/css/main.07485b48.css",
+    "main.js": "/vaw25/static/js/main.7df78fc6.js",
+    "static/js/453.ffc69977.chunk.js": "/vaw25/static/js/453.ffc69977.chunk.js",
+    "index.html": "/vaw25/index.html",
+    "main.07485b48.css.map": "/vaw25/static/css/main.07485b48.css.map",
+    "main.7df78fc6.js.map": "/vaw25/static/js/main.7df78fc6.js.map",
+    "453.ffc69977.chunk.js.map": "/vaw25/static/js/453.ffc69977.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07485b48.css",
+    "static/js/main.7df78fc6.js"
+  ]
+}
