@@ -1,7 +1,7 @@
 [
   {
     "id": "q1",
-    "question": "Subletting of quarters is violation of ……………. Of RS (Conduct) Rules 1966",
+    "question": "Subletting of quarters is violation of \u2026\u2026\u2026\u2026\u2026. of RS (Conduct) Rules 1966",
     "options": [
       "Rule 9",
       "Rule 15A",
@@ -13,38 +13,38 @@
   },
   {
     "id": "q2",
-    "question": "Standard Form for appointment of Inquiry Officer is ……………..",
+    "question": "Which Standard form is used for issuance of Major penalty charge sheet on disciplinary proceedings?",
     "options": [
-      "SF-7",
-      "SF-3",
+      "SF-11",
       "SF-5",
-      "SF-9"
+      "SF-2",
+      "None of these"
     ],
-    "answer": "SF-7",
+    "answer": "SF-5",
     "timeLimit": 60
   },
   {
     "id": "q3",
-    "question": "Which of the following Rules of DAR 1968 does specify the penalties?",
+    "question": "How can an organization promote Vigilance among its employees?",
     "options": [
-      "Rule-9",
-      "Rule-11",
-      "Rule-6",
-      "None of these"
+      "By hiding irregularities to protect its image",
+      "Promoting integrity, transparency, and accountability in public life",
+      "By suspending all employees regularly",
+      "By increasing workload to distract from wrong doings"
     ],
-    "answer": "Rule-6",
+    "answer": "Promoting integrity, transparency, and accountability in public life",
     "timeLimit": 60
   },
   {
     "id": "q4",
-    "question": "Which of the standard form is required to be used for issuing the order of deemed suspension?",
+    "question": "Which article in the Constitution of India provides constitutional safeguards for civil servants against arbitrary actions by authorities",
     "options": [
-      "SF-1",
-      "SF-3",
-      "SF-4",
-      "SF-2"
+      "Article 311",
+      "Article 310",
+      "Article 32",
+      "Article 112"
     ],
-    "answer": "SF-2",
+    "answer": "Article 311",
     "timeLimit": 60
   },
   {
@@ -61,18 +61,30 @@
   },
   {
     "id": "q6",
-    "question": "Who appoints the Central Vigilance Commissioner (CVC) in India?",
+    "question": "Which government body in India is primarily responsible for overseeing vigilance activities in central government organizations?",
     "options": [
-      "President of India",
-      "Prime Minister of India",
-      "Chief Justice of India",
-      "Speaker of Lok Sabha"
+      "Election Commission of India",
+      "Enforcement Directorate",
+      "Central Vigilance Commission",
+      "National Human Rights Commission"
     ],
-    "answer": "President of India",
+    "answer": "Central Vigilance Commission",
     "timeLimit": 60
   },
   {
     "id": "q7",
+    "question": "Which of the following Rule of DAR 1968 does specify the penalties?",
+    "options": [
+      "Rule-11",
+      "Rule-9",
+      "Rule-6",
+      "None of these"
+    ],
+    "answer": "Rule-6",
+    "timeLimit": 60
+  },
+  {
+    "id": "q8",
     "question": "Which committee recommended to establish the CVC?",
     "options": [
       "Rajmannar Committee",
@@ -84,39 +96,27 @@
     "timeLimit": 60
   },
   {
-    "id": "q8",
-    "question": "Under which article is the Constitution of India provides constitutions safeguards against civil servants?",
-    "options": [
-      "Article 311",
-      "Article 310",
-      "Article 32",
-      "Article 112"
-    ],
-    "answer": "Article 311",
-    "timeLimit": 60
-  },
-  {
     "id": "q9",
-    "question": "Total number of penalties awarded under ‘Major Penalties Head’?",
+    "question": "Any transaction in movable property involving an amount exceeding \u2026\u2026\u2026 months basic pay must be reported to the prescribed authority within one month from the date of such transaction",
     "options": [
       "4",
-      "5",
+      "2",
       "6",
-      "7"
+      "1"
     ],
-    "answer": "5",
+    "answer": "2",
     "timeLimit": 60
   },
   {
     "id": "q10",
-    "question": "Who is the Present CVC of India?",
+    "question": "What does the term 'Participative Vigilance' means?",
     "options": [
-      "PK Srivastava",
-      "Suresh N Patel",
-      "K. V. Chowdary",
-      "P. Shankar"
+      "Vigilance work done only by the vigilance department",
+      "Participation of citizens and employees in promoting integrity and transparency",
+      "Keeping vigilance confidential",
+      "Promoting silence over wrong doing"
     ],
-    "answer": "PK Srivastava",
+    "answer": "Participation of citizens and employees in promoting integrity and transparency",
     "timeLimit": 60
   }
 ]
