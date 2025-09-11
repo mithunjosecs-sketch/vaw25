@@ -1,0 +1,122 @@
+[
+  {
+    "id": "q1",
+    "question": "Subletting of quarters is violation of ……………. Of RS (Conduct) Rules 1966",
+    "options": [
+      "Rule 9",
+      "Rule 15A",
+      "Rule 6",
+      "Rule 16"
+    ],
+    "answer": "Rule 15A",
+    "timeLimit": 60
+  },
+  {
+    "id": "q2",
+    "question": "Standard Form for appointment of Inquiry Officer is ……………..",
+    "options": [
+      "SF-7",
+      "SF-3",
+      "SF-5",
+      "SF-9"
+    ],
+    "answer": "SF-7",
+    "timeLimit": 60
+  },
+  {
+    "id": "q3",
+    "question": "Which of the following Rules of DAR 1968 does specify the penalties?",
+    "options": [
+      "Rule-9",
+      "Rule-11",
+      "Rule-6",
+      "None of these"
+    ],
+    "answer": "Rule-6",
+    "timeLimit": 60
+  },
+  {
+    "id": "q4",
+    "question": "Which of the standard form is required to be used for issuing the order of deemed suspension?",
+    "options": [
+      "SF-1",
+      "SF-3",
+      "SF-4",
+      "SF-2"
+    ],
+    "answer": "SF-2",
+    "timeLimit": 60
+  },
+  {
+    "id": "q5",
+    "question": "When was the Central Vigilance Commission set up?",
+    "options": [
+      "1954",
+      "1995",
+      "1964",
+      "1985"
+    ],
+    "answer": "1964",
+    "timeLimit": 60
+  },
+  {
+    "id": "q6",
+    "question": "Who appoints the Central Vigilance Commissioner (CVC) in India?",
+    "options": [
+      "President of India",
+      "Prime Minister of India",
+      "Chief Justice of India",
+      "Speaker of Lok Sabha"
+    ],
+    "answer": "President of India",
+    "timeLimit": 60
+  },
+  {
+    "id": "q7",
+    "question": "Which committee recommended to establish the CVC?",
+    "options": [
+      "Rajmannar Committee",
+      "Santhanam Committee",
+      "Punchhi Committee",
+      "None of the above"
+    ],
+    "answer": "Santhanam Committee",
+    "timeLimit": 60
+  },
+  {
+    "id": "q8",
+    "question": "Under which article is the Constitution of India provides constitutions safeguards against civil servants?",
+    "options": [
+      "Article 311",
+      "Article 310",
+      "Article 32",
+      "Article 112"
+    ],
+    "answer": "Article 311",
+    "timeLimit": 60
+  },
+  {
+    "id": "q9",
+    "question": "Total number of penalties awarded under ‘Major Penalties Head’?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "5",
+    "timeLimit": 60
+  },
+  {
+    "id": "q10",
+    "question": "Who is the Present CVC of India?",
+    "options": [
+      "PK Srivastava",
+      "Suresh N Patel",
+      "K. V. Chowdary",
+      "P. Shankar"
+    ],
+    "answer": "PK Srivastava",
+    "timeLimit": 60
+  }
+]
