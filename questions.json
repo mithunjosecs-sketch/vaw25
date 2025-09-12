@@ -1,7 +1,43 @@
 [
   {
     "id": "q1",
-    "question": "Subletting of quarters is violation of \u2026\u2026\u2026\u2026\u2026. of RS (Conduct) Rules 1966",
+    "question": "What does the term 'Participative Vigilance' means?",
+    "options": [
+      "Vigilance work done only by the vigilance department",
+      "Participation of citizens and employees in promoting integrity and transparency",
+      "Keeping vigilance confidential",
+      "Promoting silence over wrongdoing"
+    ],
+    "answer": "Participation of citizens and employees in promoting integrity and transparency",
+    "timeLimit": 60
+  },
+  {
+    "id": "q2",
+    "question": "Which government body in India is primarily responsible for overseeing vigilance activities in central government organizations?",
+    "options": [
+      "State Anti-Corruption Bureau",
+      "Enforcement Directorate",
+      "Central Vigilance Commission",
+      "Central Bureau of Investigation"
+    ],
+    "answer": "Central Vigilance Commission",
+    "timeLimit": 60
+  },
+  {
+    "id": "q3",
+    "question": "Which standard form is used for issuance of Major penalty charge sheet on disciplinary proceedings?",
+    "options": [
+      "SF-11",
+      "SF-2",
+      "SF-5",
+      "SF-7"
+    ],
+    "answer": "SF-5",
+    "timeLimit": 60
+  },
+  {
+    "id": "q4",
+    "question": "Subletting of Government quarters is violation of _____________ of Railway Service Conduct Rules 1966",
     "options": [
       "Rule 9",
       "Rule 15A",
@@ -12,32 +48,20 @@
     "timeLimit": 60
   },
   {
-    "id": "q2",
-    "question": "Which Standard form is used for issuance of Major penalty charge sheet on disciplinary proceedings?",
+    "id": "q5",
+    "question": "Which committee recommended to establish the Central Vigilance Commission (CVC)?",
     "options": [
-      "SF-11",
-      "SF-5",
-      "SF-2",
-      "None of these"
+      "Kothari Committee",
+      "Santhanam Committee",
+      "Swaminathan Committee",
+      "Malimath Committee"
     ],
-    "answer": "SF-5",
+    "answer": "Santhanam Committee",
     "timeLimit": 60
   },
   {
-    "id": "q3",
-    "question": "How can an organization promote Vigilance among its employees?",
-    "options": [
-      "By hiding irregularities to protect its image",
-      "Promoting integrity, transparency, and accountability in public life",
-      "By suspending all employees regularly",
-      "By increasing workload to distract from wrong doings"
-    ],
-    "answer": "Promoting integrity, transparency, and accountability in public life",
-    "timeLimit": 60
-  },
-  {
-    "id": "q4",
-    "question": "Which article in the Constitution of India provides constitutional safeguards for civil servants against arbitrary actions by authorities",
+    "id": "q6",
+    "question": "Under which Article of the Constitution of India are civil servants provided safeguards against arbitrary action of Removal & dismissal from service by the authorities?",
     "options": [
       "Article 311",
       "Article 310",
@@ -48,56 +72,8 @@
     "timeLimit": 60
   },
   {
-    "id": "q5",
-    "question": "When was the Central Vigilance Commission set up?",
-    "options": [
-      "1954",
-      "1995",
-      "1964",
-      "1985"
-    ],
-    "answer": "1964",
-    "timeLimit": 60
-  },
-  {
-    "id": "q6",
-    "question": "Which government body in India is primarily responsible for overseeing vigilance activities in central government organizations?",
-    "options": [
-      "Election Commission of India",
-      "Enforcement Directorate",
-      "Central Vigilance Commission",
-      "National Human Rights Commission"
-    ],
-    "answer": "Central Vigilance Commission",
-    "timeLimit": 60
-  },
-  {
     "id": "q7",
-    "question": "Which of the following Rule of DAR 1968 does specify the penalties?",
-    "options": [
-      "Rule-11",
-      "Rule-9",
-      "Rule-6",
-      "None of these"
-    ],
-    "answer": "Rule-6",
-    "timeLimit": 60
-  },
-  {
-    "id": "q8",
-    "question": "Which committee recommended to establish the CVC?",
-    "options": [
-      "Rajmannar Committee",
-      "Santhanam Committee",
-      "Punchhi Committee",
-      "None of the above"
-    ],
-    "answer": "Santhanam Committee",
-    "timeLimit": 60
-  },
-  {
-    "id": "q9",
-    "question": "Any transaction in movable property involving an amount exceeding \u2026\u2026\u2026 months basic pay must be reported to the prescribed authority within one month from the date of such transaction",
+    "question": "Any transaction in movable property involving an amount exceeding ___________ months basic pay must be reported to the prescribed authority within one month from the date of such transaction",
     "options": [
       "4",
       "2",
@@ -108,15 +84,39 @@
     "timeLimit": 60
   },
   {
-    "id": "q10",
-    "question": "What does the term 'Participative Vigilance' means?",
+    "id": "q8",
+    "question": "An employee is offered an expensive gift by a Contractor having official dealings. What is the correct course of action by the employee?",
     "options": [
-      "Vigilance work done only by the vigilance department",
-      "Participation of citizens and employees in promoting integrity and transparency",
-      "Keeping vigilance confidential",
-      "Promoting silence over wrong doing"
+      "Accept it and not tell anyone",
+      "Accept it and thank the vendor",
+      "Refuse and report it to the higher authorities",
+      "Share it with colleagues"
     ],
-    "answer": "Participation of citizens and employees in promoting integrity and transparency",
+    "answer": "Refuse and report it to the higher authorities",
+    "timeLimit": 60
+  },
+  {
+    "id": "q9",
+    "question": "Which of the following is NOT a feature of good governance?",
+    "options": [
+      "Transparency",
+      "Accountability",
+      "Discrimination",
+      "Responsiveness"
+    ],
+    "answer": "Discrimination",
+    "timeLimit": 60
+  },
+  {
+    "id": "q10",
+    "question": "Central Bureau of Investigation (CBI) functions under the administrative control of:",
+    "options": [
+      "Supreme Court of India",
+      "Ministry of Home Affairs",
+      "Prime Minister\u2019s Office",
+      "Department of Personnel and Training (DoPT)"
+    ],
+    "answer": "Department of Personnel and Training (DoPT)",
     "timeLimit": 60
   }
 ]
