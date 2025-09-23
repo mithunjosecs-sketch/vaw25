@@ -9,7 +9,7 @@
       "Promoting silence over wrongdoing"
     ],
     "answer": "Participation of citizens and employees in promoting integrity and transparency",
-    "timeLimit": 60
+    "timeLimit": 30
   },
   {
     "id": "q2",
@@ -21,7 +21,7 @@
       "Central Bureau of Investigation"
     ],
     "answer": "Central Vigilance Commission",
-    "timeLimit": 60
+    "timeLimit": 30
   },
   {
     "id": "q3",
@@ -33,7 +33,7 @@
       "SF-7"
     ],
     "answer": "SF-5",
-    "timeLimit": 60
+    "timeLimit": 30
   },
   {
     "id": "q4",
@@ -45,7 +45,7 @@
       "Rule 16"
     ],
     "answer": "Rule 15A",
-    "timeLimit": 60
+    "timeLimit": 30
   },
   {
     "id": "q5",
@@ -57,7 +57,7 @@
       "Malimath Committee"
     ],
     "answer": "Santhanam Committee",
-    "timeLimit": 60
+    "timeLimit": 30
   },
   {
     "id": "q6",
@@ -69,7 +69,7 @@
       "Article 112"
     ],
     "answer": "Article 311",
-    "timeLimit": 60
+    "timeLimit": 30
   },
   {
     "id": "q7",
@@ -81,7 +81,7 @@
       "1"
     ],
     "answer": "2",
-    "timeLimit": 60
+    "timeLimit": 30
   },
   {
     "id": "q8",
@@ -93,7 +93,7 @@
       "Share it with colleagues"
     ],
     "answer": "Refuse and report it to the higher authorities",
-    "timeLimit": 60
+    "timeLimit": 30
   },
   {
     "id": "q9",
@@ -105,7 +105,7 @@
       "Responsiveness"
     ],
     "answer": "Discrimination",
-    "timeLimit": 60
+    "timeLimit": 30
   },
   {
     "id": "q10",
@@ -117,6 +117,6 @@
       "Department of Personnel and Training (DoPT)"
     ],
     "answer": "Department of Personnel and Training (DoPT)",
-    "timeLimit": 60
+    "timeLimit": 30
   }
 ]
