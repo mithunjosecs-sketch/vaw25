@@ -1,0 +1,122 @@
+[
+  {
+    "id": "q1",
+    "question": "What does the term 'Participative Vigilance' means?",
+    "options": [
+      "Vigilance work done only by the vigilance department",
+      "Participation of citizens and employees in promoting integrity and transparency",
+      "Keeping vigilance confidential",
+      "Promoting silence over wrongdoing"
+    ],
+    "answer": "Participation of citizens and employees in promoting integrity and transparency",
+    "timeLimit": 30
+  },
+  {
+    "id": "q2",
+    "question": "Which government body in India is primarily responsible for overseeing vigilance activities in central government organizations?",
+    "options": [
+      "State Anti-Corruption Bureau",
+      "Enforcement Directorate",
+      "Central Vigilance Commission",
+      "Central Bureau of Investigation"
+    ],
+    "answer": "Central Vigilance Commission",
+    "timeLimit": 30
+  },
+  {
+    "id": "q3",
+    "question": "Which standard form is used for issuance of Major penalty charge sheet on disciplinary proceedings?",
+    "options": [
+      "SF-11",
+      "SF-2",
+      "SF-5",
+      "SF-7"
+    ],
+    "answer": "SF-5",
+    "timeLimit": 30
+  },
+  {
+    "id": "q4",
+    "question": "Subletting of Government quarters is violation of _____________ of Railway Service Conduct Rules 1966",
+    "options": [
+      "Rule 9",
+      "Rule 15A",
+      "Rule 6",
+      "Rule 16"
+    ],
+    "answer": "Rule 15A",
+    "timeLimit": 30
+  },
+  {
+    "id": "q5",
+    "question": "Which committee recommended to establish the Central Vigilance Commission (CVC)?",
+    "options": [
+      "Kothari Committee",
+      "Santhanam Committee",
+      "Swaminathan Committee",
+      "Malimath Committee"
+    ],
+    "answer": "Santhanam Committee",
+    "timeLimit": 30
+  },
+  {
+    "id": "q6",
+    "question": "Under which Article of the Constitution of India are civil servants provided safeguards against arbitrary action of Removal & dismissal from service by the authorities?",
+    "options": [
+      "Article 311",
+      "Article 310",
+      "Article 32",
+      "Article 112"
+    ],
+    "answer": "Article 311",
+    "timeLimit": 30
+  },
+  {
+    "id": "q7",
+    "question": "Any transaction in movable property involving an amount exceeding ___________ months basic pay must be reported to the prescribed authority within one month from the date of such transaction",
+    "options": [
+      "4",
+      "2",
+      "6",
+      "1"
+    ],
+    "answer": "2",
+    "timeLimit": 30
+  },
+  {
+    "id": "q8",
+    "question": "An employee is offered an expensive gift by a Contractor having official dealings. What is the correct course of action by the employee?",
+    "options": [
+      "Accept it and not tell anyone",
+      "Accept it and thank the vendor",
+      "Refuse and report it to the higher authorities",
+      "Share it with colleagues"
+    ],
+    "answer": "Refuse and report it to the higher authorities",
+    "timeLimit": 30
+  },
+  {
+    "id": "q9",
+    "question": "Which of the following is NOT a feature of good governance?",
+    "options": [
+      "Transparency",
+      "Accountability",
+      "Discrimination",
+      "Responsiveness"
+    ],
+    "answer": "Discrimination",
+    "timeLimit": 30
+  },
+  {
+    "id": "q10",
+    "question": "Central Bureau of Investigation (CBI) functions under the administrative control of:",
+    "options": [
+      "Supreme Court of India",
+      "Ministry of Home Affairs",
+      "Prime Minister\u2019s Office",
+      "Department of Personnel and Training (DoPT)"
+    ],
+    "answer": "Department of Personnel and Training (DoPT)",
+    "timeLimit": 30
+  }
+]
